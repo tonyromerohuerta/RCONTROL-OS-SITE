@@ -1,0 +1,7 @@
+content: name: base
+   channels:
+     - defaults
+   dependencies:
+     - python=3.10
+     - flake8
+     - pytest
