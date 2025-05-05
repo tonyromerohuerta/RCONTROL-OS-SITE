@@ -1,0 +1,1 @@
+bash /path/to/rcontrol_usb_runner.sh &
