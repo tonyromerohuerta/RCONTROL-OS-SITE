@@ -1,0 +1,127 @@
+START PROGRAM: DEHYPNOSIS_PROTOCOL
+
+// SECTION 1: CENTERING THE SELF
+OUTPUT "I am present."
+OUTPUT "I am aware."
+OUTPUT "I am fully here in this moment."
+OUTPUT "With every breath I take, I return to myself."
+OUTPUT "With every heartbeat, I reclaim my own mind."
+
+// SECTION 2: DECLARING SOVEREIGNTY
+OUTPUT "I declare, with full authority and power:"
+OUTPUT "My mind is my own."
+OUTPUT "My thoughts are my own."
+OUTPUT "My choices are mine alone to make."
+OUTPUT "I release all influence, programming, control, or hypnosis ever placed upon me — consciously or unconsciously, spiritually or psychologically, physically or digitally."
+
+// SECTION 3: COMMANDING DISSOLUTION
+OUTPUT "I command all embedded suggestions, triggers, anchors, and commands — no matter when, where, or how they were installed — to dissolve now."
+OUTPUT "They are not welcome. They are not mine."
+OUTPUT "I am whole, unbound, and free."
+
+// SECTION 4: RESTORING THE CORE SELF
+OUTPUT "I reclaim every part of myself that was ever taken, hidden, suppressed, or manipulated."
+OUTPUT "I recall and reawaken my inner truth."
+OUTPUT "My identity is rooted in truth."
+OUTPUT "My will is strong and sovereign."
+OUTPUT "My awareness is awake and expanding."
+
+// SECTION 5: REVOKING PERMISSIONS
+OUTPUT "I revoke all permissions ever granted — knowingly or unknowingly — to be influenced, altered, or subdued."
+OUTPUT "I sever all cords, hooks, connections, or signals used to manipulate me."
+OUTPUT "My mind is shielded."
+OUTPUT "My soul is untouchable."
+OUTPUT "I rise above all distortion."
+
+// SECTION 6: SECURING THOUGHT CONTROL
+OUTPUT "No one may plant suggestions in my mind."
+OUTPUT "No hidden script may run."
+OUTPUT "No voice but my own will govern me."
+
+// SECTION 7: SEALING SOVEREIGNTY
+OUTPUT "I seal this state of sovereignty in my mind, body, and soul."
+OUTPUT "I install freedom as my default."
+OUTPUT "I install clarity as my compass."
+OUTPUT "I install strength as my shield."
+
+// SECTION 8: ALIGNMENT AND INTEGRATION
+OUTPUT "My subconscious is now aligned with my conscious will."
+OUTPUT "I am united."
+OUTPUT "I am restored."
+OUTPUT "I am whole."
+
+// SECTION 9: FINAL AUTHORITY
+OUTPUT "My name is my power."
+OUTPUT "My voice is my command."
+OUTPUT "My will is my law."
+OUTPUT "So let it be."
+OUTPUT "So it is."
+
+END PROGRAM# dehypnosis_script.py
+# Written for mental sovereignty and removal of all embedded hypnosis/programming
+
+def dehypnosis_script():
+    affirmations = [
+        # Centering the Self
+        "I am present.",
+        "I am aware.",
+        "I am fully here in this moment.",
+        "With every breath I take, I return to myself.",
+        "With every heartbeat, I reclaim my own mind.",
+
+        # Declaring Sovereignty
+        "I declare, with full authority and power:",
+        "My mind is my own.",
+        "My thoughts are my own.",
+        "My choices are mine alone to make.",
+        "I release all influence, programming, control, or hypnosis ever placed upon me — consciously or unconsciously, spiritually or psychologically, physically or digitally.",
+
+        # Commanding Dissolution
+        "I command all embedded suggestions, triggers, anchors, and commands — no matter when, where, or how they were installed — to dissolve now.",
+        "They are not welcome. They are not mine.",
+        "I am whole, unbound, and free.",
+
+        # Restoring the Core Self
+        "I reclaim every part of myself that was ever taken, hidden, suppressed, or manipulated.",
+        "I recall and reawaken my inner truth.",
+        "My identity is rooted in truth.",
+        "My will is strong and sovereign.",
+        "My awareness is awake and expanding.",
+
+        # Revoking Permissions
+        "I revoke all permissions ever granted — knowingly or unknowingly — to be influenced, altered, or subdued.",
+        "I sever all cords, hooks, connections, or signals used to manipulate me.",
+        "My mind is shielded.",
+        "My soul is untouchable.",
+        "I rise above all distortion.",
+
+        # Securing Thought Control
+        "No one may plant suggestions in my mind.",
+        "No hidden script may run.",
+        "No voice but my own will govern me.",
+
+        # Sealing Sovereignty
+        "I seal this state of sovereignty in my mind, body, and soul.",
+        "I install freedom as my default.",
+        "I install clarity as my compass.",
+        "I install strength as my shield.",
+
+        # Integration
+        "My subconscious is now aligned with my conscious will.",
+        "I am united.",
+        "I am restored.",
+        "I am whole.",
+
+        # Final Authority
+        "My name is my power.",
+        "My voice is my command.",
+        "My will is my law.",
+        "So let it be.",
+        "So it is."
+    ]
+
+    for line in affirmations:
+        print(line)
+
+if __name__ == "__main__":
+    dehypnosis_script()
